@@ -1,4 +1,4 @@
-#TicTacToe game 
+# TicTacToe game 
 
 Made following the tutorial at https://reactjs.org/tutorial/tutorial.html
 
